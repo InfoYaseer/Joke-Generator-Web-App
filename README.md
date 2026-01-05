@@ -1,3 +1,3 @@
 ## 📸 Demo
-- Live Site: https://yaseerm.me/javascript-projects/joke-genarator%20web%20app(api)/
+- Live Site: https://infoyaseer.github.io/Joke-Generator-Web-App/
 - Source Code: This repository
